@@ -1,27 +1,27 @@
 [
-          {
-            name: '911',
-            number: '911',
-            description: 'Emergency call'
-          },
-          {
-            name: 'Toronto Hydro',
-            number: '416-542-8000',
-            description: 'Report a power outage'
-          },
-          {
-            name: 'Enbridge Gas Distribution',
-            number: '1-866-763-5427',
-            description: 'Report a possible gas leak (smell of rotten eggs)'
-          },
-          {
-            name: '311',
-            number: '311',
-            description: 'Information on City services and programs'
-          },
-          {
-            name: '211',
-            number: '211',
-            description: 'Information and referral helpline to community, social, government and non-emergency health services'
-          }
+  {
+    "name": "911",
+    "number": "911",
+    "description": "Emergency call"
+  },
+  {
+    "name": "Toronto Hydro",
+    "number": "416-542-8000",
+    "description": "Report a power outage"
+  },
+  {
+    "name": "Enbridge Gas Distribution",
+    "number": "1-866-763-5427",
+    "description": "Report a possible gas leak (smell of rotten eggs)"
+  },
+  {
+    "name": "311",
+    "number": "311",
+    "description": "Information on City services and programs"
+  },
+  {
+    "name": "211",
+    "number": "211",
+    "description": "Information and referral helpline to community, social, government and non-emergency health services"
+  }
 ]
